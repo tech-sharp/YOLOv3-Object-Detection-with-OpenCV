@@ -60,4 +60,4 @@ yolo.py --help
 
 ## License
 
-The code in this project is distributed under the MIT License.
+The code in this project is distributed under the MIT License.
