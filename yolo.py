@@ -170,4 +170,4 @@ if __name__ == '__main__':
 			if cv.waitKey(1) & 0xFF == ord('q'):
 				break
 		vid.release()
-		cv.destroyAllWindows()
+		cv.destroyAllWindows()
