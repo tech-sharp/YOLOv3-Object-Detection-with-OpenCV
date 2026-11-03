@@ -93,4 +93,4 @@ def infer_image(net, layer_names, height, width, img, colors, labels, FLAGS,
     # Draw labels and boxes on the image
     img = draw_labels_and_boxes(img, boxes, confidences, classids, idxs, colors, labels)
 
-    return img, boxes, confidences, classids, idxs
+    return img, boxes, confidences, classids, idxs
